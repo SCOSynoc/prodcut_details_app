@@ -1,0 +1,7 @@
+# Flutter-related
+**/Flutter/ephemeral/
+**/Pods/
+/lib/firebase_options.dart
+# Xcode-related
+**/dgph
+**/xcuserdata/
